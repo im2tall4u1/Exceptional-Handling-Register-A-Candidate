@@ -1,4 +1,4 @@
-# Exceptional-Hanlding-Register-A-Candidate
+# Exceptional-Handling-Register-A-Candidate
 
 Register a Candidate - User defined Exception(with throw and throws)
 Geneva Technologies is planning to conduct a Walk-in interview. The interview has 4 levels. To attend the interview, the candidates need to register the following information:
